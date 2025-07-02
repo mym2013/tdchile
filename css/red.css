@@ -1,0 +1,24 @@
+
+
+body{
+    background-image: url("../img/fondo_tech_rojo3.jpg");
+    background-attachment: fixed;
+
+    }
+
+
+#logo{
+
+    background: #CA3514;
+
+
+  }
+
+  #menu ul li:hover{
+    background: #CA3514;
+  }
+
+  .button-more{
+    background:  #CA3514;
+
+    }

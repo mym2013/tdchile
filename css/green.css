@@ -1,0 +1,23 @@
+
+body{
+  /*  background: url(../img/hojas.jpg);*/
+    background-image: url("../img/fondo_tech_verde2.jpg");
+    background-attachment: fixed;
+
+    }
+
+
+#logo{
+
+    background: #235E3D;
+
+  }
+
+  #menu ul li:hover{
+    background: #255E3D;
+  }
+
+  .button-more{
+    background: #235E3D;
+
+    }
